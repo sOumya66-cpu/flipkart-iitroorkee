@@ -1,7 +1,6 @@
-# flipkart-iitroorkee
 # Flipkart Gen Z Commerce Strategy
 
-Product strategy case study developed for COMET '26 × Flipkart.
+Product strategy case study developed for COMET '26 × Flipkart, achieving first runner-up in national finals at IIT Roorkee.
 
 ## Problem
 
